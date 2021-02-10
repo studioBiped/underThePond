@@ -127,7 +127,7 @@ function preload() {
 function setup() {
   var canvas = createCanvas(cnv[0] * sc, cnv[1] * sc);
   frameRate(12);
-  //noCursor();
+  noCursor();
 }
 
 function draw() {
