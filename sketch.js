@@ -1,5 +1,5 @@
 var cnv = [1920, 1080];
-var sc = 0.5;
+var sc = 0.6;
 var screen = 1;
 var cursorState = 'arrow';
 var waterDarken = 0;
